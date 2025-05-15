@@ -1,3 +1,21 @@
+*.jpg
+*.png
+*.zip
+*.json
+
+.idea/
+
+training/
+lightning_logs/
+image_log/
+pretrained/
+
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
